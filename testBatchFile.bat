@@ -1,0 +1,2 @@
+d:
+dir>a.txt
