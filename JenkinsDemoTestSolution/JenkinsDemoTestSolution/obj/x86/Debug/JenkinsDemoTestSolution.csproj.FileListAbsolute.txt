@@ -1,0 +1,6 @@
+C:\Users\nhans\Documents\SharpDevelop Projects\JenkinsDemoTestSolution\JenkinsDemoTestSolution\bin\Debug\JenkinsDemoTestSolution.exe.config
+C:\Users\nhans\Documents\SharpDevelop Projects\JenkinsDemoTestSolution\JenkinsDemoTestSolution\bin\Debug\JenkinsDemoTestSolution.exe
+C:\Users\nhans\Documents\SharpDevelop Projects\JenkinsDemoTestSolution\JenkinsDemoTestSolution\bin\Debug\JenkinsDemoTestSolution.pdb
+C:\Users\nhans\Documents\SharpDevelop Projects\JenkinsDemoTestSolution\JenkinsDemoTestSolution\obj\x86\Debug\JenkinsDemoTestSolution.csprojResolveAssemblyReference.cache
+C:\Users\nhans\Documents\SharpDevelop Projects\JenkinsDemoTestSolution\JenkinsDemoTestSolution\obj\x86\Debug\JenkinsDemoTestSolution.exe
+C:\Users\nhans\Documents\SharpDevelop Projects\JenkinsDemoTestSolution\JenkinsDemoTestSolution\obj\x86\Debug\JenkinsDemoTestSolution.pdb
