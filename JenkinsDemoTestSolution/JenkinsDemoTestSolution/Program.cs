@@ -16,10 +16,23 @@ namespace JenkinsDemoTestSolution
 		{
 			Console.WriteLine("Hello World!");
 			
+			addTwoInteger();
+			
 			// TODO: Implement Functionality Here
 			
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
+		}
+		
+		public static void addTwoInteger()
+		{
+		
+			int a =10;
+			int b = 5;
+			int c;
+			c = a+b;
+			
+			System.Console.WriteLine(c);
 		}
 	}
 }

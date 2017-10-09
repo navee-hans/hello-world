@@ -4,3 +4,8 @@ C:\Users\nhans\Documents\SharpDevelop Projects\JenkinsDemoTestSolution\JenkinsDe
 C:\Users\nhans\Documents\SharpDevelop Projects\JenkinsDemoTestSolution\JenkinsDemoTestSolution\obj\x86\Debug\JenkinsDemoTestSolution.csprojResolveAssemblyReference.cache
 C:\Users\nhans\Documents\SharpDevelop Projects\JenkinsDemoTestSolution\JenkinsDemoTestSolution\obj\x86\Debug\JenkinsDemoTestSolution.exe
 C:\Users\nhans\Documents\SharpDevelop Projects\JenkinsDemoTestSolution\JenkinsDemoTestSolution\obj\x86\Debug\JenkinsDemoTestSolution.pdb
+C:\hello-world\JenkinsDemoTestSolution\JenkinsDemoTestSolution\bin\Debug\JenkinsDemoTestSolution.exe.config
+C:\hello-world\JenkinsDemoTestSolution\JenkinsDemoTestSolution\bin\Debug\JenkinsDemoTestSolution.exe
+C:\hello-world\JenkinsDemoTestSolution\JenkinsDemoTestSolution\bin\Debug\JenkinsDemoTestSolution.pdb
+C:\hello-world\JenkinsDemoTestSolution\JenkinsDemoTestSolution\obj\x86\Debug\JenkinsDemoTestSolution.exe
+C:\hello-world\JenkinsDemoTestSolution\JenkinsDemoTestSolution\obj\x86\Debug\JenkinsDemoTestSolution.pdb
