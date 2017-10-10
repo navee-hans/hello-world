@@ -32,9 +32,6 @@ namespace JenkinsDemoTestSolution
 			int c;
 			c = a+b;
 			
-			
-			
-			
 			System.Console.WriteLine(c);
 		}
 	}
